@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\GoogleKeepApiProject\GoogleKeepApiProject\obj\Debug\net8.0\GoogleKeepApiProject.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\GoogleKeepApiProject\GoogleKeepApiProject\obj\Debug\net8.0\GoogleKeepApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\GoogleKeepApiProject\GoogleKeepApiProject\obj\Debug\net8.0\GoogleKeepApiProject.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\GoogleKeepApiProject\GoogleKeepApiProject\obj\Debug\net8.0\GoogleKeepApiProject.AssemblyInfo.cs
+C:\Users\dell\source\repos\GoogleKeepApiProject\GoogleKeepApiProject\obj\Debug\net8.0\GoogleKeepApiProject.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\GoogleKeepApiProject\GoogleKeepApiProject\obj\Debug\net8.0\GoogleKeepApiProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dell\source\repos\GoogleKeepApiProject\GoogleKeepApiProject\obj\Debug\net8.0\GoogleKeepApiProject.MvcApplicationPartsAssemblyInfo.cache
